@@ -1,0 +1,5 @@
+{
+  "name": "Masonic Minutes Generator",
+  "description": "An application to help Masonic lodge secretaries convert shorthand meeting notes into formally structured minutes using AI.",
+  "requestFramePermissions": []
+}
